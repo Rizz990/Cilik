@@ -81,15 +81,15 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- *ʜᴇʟʟᴏ ᴀᴋᴜ ɢʀᴇʏ ᴄ*
-ɢʀᴇʏ ᴄɪʟɪᴋ ᴀᴅᴀʟᴀʜ ʙᴏᴛ ᴍᴀɴᴀɢᴇʀ + ᴍᴜꜱɪᴄ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴇʟᴏʟᴀ ɢʀᴜᴘ ᴀɴᴅᴀ ᴅᴇɴɢᴀɴ ʙᴀɪᴋ.
+ *ʜᴇʟʟᴏ ᴀᴋᴜ yaiku*
+yaiku ᴀᴅᴀʟᴀʜ ʙᴏᴛ ᴍᴀɴᴀɢᴇʀ + ᴍᴜꜱɪᴄ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴇʟᴏʟᴀ ɢʀᴜᴘ ᴀɴᴅᴀ ᴅᴇɴɢᴀɴ ʙᴀɪᴋ.
 ᴛᴇᴋᴀɴ /help . ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ [Rizz](t.me/Rizzpex).
 """
 
 buttons = [
         [
         InlineKeyboardButton(
-            text="➕️ Add Grey Cilik to your group ➕️", url="t.me/GreyCilik_bot?startgroup=true"
+            text="➕️ Add Yaiku to your group ➕️", url="t.me/yaikutapibot?startgroup=true"
         ),
     ],
     [
@@ -109,10 +109,10 @@ buttons = [
 HELP_STRINGS = """
 Click on the button bellow to get description about specifics command."""
 
-CILIK_IMG = "https://telegra.ph/file/a807460d64ac73c5dc83a.jpg"
+YAIKU_IMG = "https://telegra.ph/file/af142865bb16d722349c4.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting @greyyvbss \
+ You can support the project by contacting @Rizzpex \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
