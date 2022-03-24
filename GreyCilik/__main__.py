@@ -81,9 +81,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- *ʜᴇʟʟᴏ ᴀᴋᴜ ɢʀᴇʏ ᴄɪʟɪᴋ*
+ *ʜᴇʟʟᴏ ᴀᴋᴜ ɢʀᴇʏ ᴄ*
 ɢʀᴇʏ ᴄɪʟɪᴋ ᴀᴅᴀʟᴀʜ ʙᴏᴛ ᴍᴀɴᴀɢᴇʀ + ᴍᴜꜱɪᴄ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴇʟᴏʟᴀ ɢʀᴜᴘ ᴀɴᴅᴀ ᴅᴇɴɢᴀɴ ʙᴀɪᴋ.
-ᴛᴇᴋᴀɴ /help . ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ [Grey](t.me/greyyvbss).
+ᴛᴇᴋᴀɴ /help . ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ [Rizz](t.me/Rizzpex).
 """
 
 buttons = [
